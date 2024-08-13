@@ -6,7 +6,7 @@ This repository offers an in-depth data analysis of global internet usage trends
 ![Static Badge](https://img.shields.io/badge/Project1_Global_Internet_Usage-Green)
 ![Static Badge](https://img.shields.io/badge/Data_Analytics-blue)
 
-### Explain how the project relates to the industry you selected.
+## Problems to address from this data analyze
 
 1. Does Internet access and tax revenue drive down corruption?
 2. Internet usage has something to Carbon emissions?
@@ -17,3 +17,6 @@ https://www.kaggle.com/datasets/nicolasgonzalezmunoz/world-bank-world-developmen
 
 ## Usage
 This repository contains a comprehensive data analysis of global internet usage trends, presented in a Jupyter Notebook. 
+
+## Correlation Ref.
+https://www.researchgate.net/figure/The-scale-of-Pearsons-Correlation-Coefficient_tbl1_345693737
