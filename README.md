@@ -6,7 +6,7 @@ This repository offers an in-depth data analysis of global internet usage trends
 ![Static Badge](https://img.shields.io/badge/Project1_Global_Internet_Usage-Green)
 ![Static Badge](https://img.shields.io/badge/Data_Analytics-blue)
 
-## Problems to address from this data analyze
+## Problems to address from this data analysis
 
 1. Does Internet access and tax revenue drive down corruption?
 2. Internet usage has something to Carbon emissions?
